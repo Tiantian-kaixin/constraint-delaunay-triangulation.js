@@ -1,0 +1,49 @@
+<!doctype html>
+<meta charset="UTF-8">
+<head>
+    <title>mian-low-poly</title>
+    <style>
+        #top{
+            text-align: center;
+        }
+        div.canvas{
+            text-align: center;
+        }
+        p{
+            font-size: 15px;
+            color: red;
+            position: relative;
+        }
+        input{
+            position: relative;
+            background-color: #FFFFFF;
+            display: inline-block;
+        }
+        button {
+            position: relative;
+            border-radius: 5px;
+        }
+        canvas{
+            visibility: hidden;
+            border:1px solid black
+        }
+    </style>
+</head>
+<body>
+<div id="top">
+<p>点击'选取文件'上传图片,支持图片格式: JPG, JPEG, PNG. (点击'本地保存'可保存处理后的图片)</p>
+<input id="file" type="file" value="上传图片">
+<button id="downloadImageBtn">本地保存</button>
+    <button id="final">显示最终结果</button>
+    <button id="contrainLine">显示约束线条</button>
+    <button id="web">显示网格</button>
+    <h1 style="visibility: hidden" id="h1">loading...</h1>
+</div>
+<div class="canvas">
+<canvas id="canvas"></canvas>
+<canvas id="finalcvs"></canvas>
+</div>
+<script type="text/javascript" src="js/canny.js"></script>
+<script type="text/javascript" src="js/cdt-0.1.js"></script>
+</body>
+</html>
