@@ -1,8 +1,6 @@
 # constraint-delaunay-triangulation
 ## introduction
 >use constraint delaunay triangulation method to create low-poly pictrue.<br>
-## process
-<div align=center><img src="https://github.com/Tiantian-kaixin/constraint-delaunay-triangulation.js/raw/master/sample/progress.png" width="400" /></div><br>
 ## Algorithm Overview
 ### Canny edge detection
 >Detect edges using optimized canny edge detection.<br>
@@ -16,6 +14,8 @@
 >Select the triangle center color to fill the entire triangle.<br>
 ## Attention
 >Due to the large amount of calculation, the input picture graphic structure should be as simple as possible, and the size should not be too large, so as not to take too long and not respond.<br>
+## process
+<div align=center><img src="https://github.com/Tiantian-kaixin/constraint-delaunay-triangulation.js/raw/master/sample/progress.png" width="400" /></div><br>
 ## sample
 <div align=center><img src="https://github.com/Tiantian-kaixin/constraint-delaunay-triangulation.js/raw/master/sample/result.png" width="500" /></div><br>
 ## reference
