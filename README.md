@@ -2,7 +2,7 @@
 ## introduction
 >use constraint delaunay triangulation method to create low-poly pictrue.<br>
 ## sample
-<img src=src="https://github.com/Tiantian-kaixin/constraint-delaunay-triangulation.js/raw/master/result.png" /><br>
+<img src="https://github.com/Tiantian-kaixin/constraint-delaunay-triangulation.js/raw/master/result.png" /><br>
 
 ## reference
 >reference：'Artistic Low Poly rendering for images'<br>
