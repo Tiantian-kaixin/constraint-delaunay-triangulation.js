@@ -17,7 +17,7 @@
 ## Attention
 >Due to the large amount of calculation, the input picture graphic structure should be as simple as possible, and the size should not be too large, so as not to take too long and not respond.<br>
 ## sample
-<div align=center><img src="https://github.com/Tiantian-kaixin/constraint-delaunay-triangulation.js/raw/master/sample/result.png" width="500" /></div><br>
+<img src="https://github.com/Tiantian-kaixin/constraint-delaunay-triangulation.js/raw/master/sample/result.png" width="500" /><br>
 ## reference
 >reference paper：'Artistic Low Poly rendering for images'<br>
 >(http://or.nsfc.gov.cn/bitstream/00001903-5/336217/1/1000014012719.pdf)
