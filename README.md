@@ -3,7 +3,7 @@
 >use constraint delaunay triangulation method to create low-poly pictrue.<br>
 ### General process
 <div align=center><img src="https://github.com/Tiantian-kaixin/constraint-delaunay-triangulation.js/raw/master/sample/progress.png"  width="400"/></div>
-## Algorithm Overview
+### Algorithm Overview
 ### Canny edge detection
 >Detect edges using optimized canny edge detection.<br>
 ### Douglas–Peucker algorithm
